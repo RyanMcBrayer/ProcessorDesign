@@ -1,7 +1,7 @@
 # Hardware
 This repo contains a single-cylce implementation of the WISC-SP13 ISA.
 This project was made for my computer architecture class. This ISA is a 16-bit architecture based off the MIPS R2000 datapath.
-THis processor was implemented in Verilog HDL and the ISA details are given below
+The processor was implemented in Verilog HDL and the ISA details are given below.
 
 ## WISC-SP13 ISA
 
